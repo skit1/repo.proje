@@ -1,0 +1,23 @@
+.navbare{
+    display: flex ; 
+    justify-content: space-around;
+    
+}
+.menu{
+    display: flex;
+    justify-content: right;
+    color: green;
+}
+
+.menuitem{
+    margin: 10px; 
+}
+.pic{
+    width: 268px; height: 30px;
+}
+.centre{
+   display: flex ;
+   justify-content: center; 
+  margin:40px;
+} 
+
